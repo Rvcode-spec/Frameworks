@@ -13,8 +13,9 @@ A simple API to simulate email sending using a mock service.
 ## 🛠 Setup Instructions
 
 ```bash
-git clone https://github.com/Rvcode-spec/resilient-email-service
-cd resilient-email-service
+git clone git@github.com:Rvcode-spec/aug-backend-journey.git
+cd Email-Mock-API
+cd email-service
 npm install
 start:- nodemon
 test - npm test
